@@ -1,0 +1,4 @@
+Lingu de Baixo nivel == perto da limguagem de hardware
+Lingu alto nivel = perto da lingu hhumana
+
+paradigmas 
